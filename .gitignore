@@ -1,0 +1,7 @@
+/.vscode
+/build
+*.elf
+*.rpx
+*.wuhb
+.idea/
+*.code-workspace
