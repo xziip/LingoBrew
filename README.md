@@ -1,4 +1,4 @@
-# <img src='res/icon_rounded.png' width='50'> LingoBrew - Brew Your System's Language
+# <img src='res/icon.png' width='50'> LingoBrew - Brew Your System's Language
 
 A multilingual Wii U homebrew application for switching system language files. Say goodbye to FTP servers!
 
