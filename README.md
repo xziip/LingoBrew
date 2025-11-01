@@ -85,7 +85,7 @@ For building you need:
 - wiiu-curl
 - wiiu-mbedtls
 
-You can also build haxcopy using docker:
+You can also build LingoBrew using docker:
 ```bash
 # Build docker image (only needed once)
 docker build . -t lingobrew_builder
